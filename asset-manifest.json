@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fe-app/static/css/main.fb31d3c1.css",
-    "main.js": "/fe-app/static/js/main.401db9a1.js",
+    "main.css": "/fe-app/static/css/main.a4bc1598.css",
+    "main.js": "/fe-app/static/js/main.2030034c.js",
     "static/js/787.08307fcc.chunk.js": "/fe-app/static/js/787.08307fcc.chunk.js",
     "static/media/profilebg.png": "/fe-app/static/media/profilebg.ceb6b9eebb86277cfb68.png",
     "static/media/pitch.png": "/fe-app/static/media/pitch.4eb9ddc29988cc6bac29.png",
@@ -13,12 +13,12 @@
     "static/media/profile2.png": "/fe-app/static/media/profile2.1340b5c1c0a2b377c791.png",
     "static/media/profile1.png": "/fe-app/static/media/profile1.185bd04a58cacfebdf0f.png",
     "index.html": "/fe-app/index.html",
-    "main.fb31d3c1.css.map": "/fe-app/static/css/main.fb31d3c1.css.map",
-    "main.401db9a1.js.map": "/fe-app/static/js/main.401db9a1.js.map",
+    "main.a4bc1598.css.map": "/fe-app/static/css/main.a4bc1598.css.map",
+    "main.2030034c.js.map": "/fe-app/static/js/main.2030034c.js.map",
     "787.08307fcc.chunk.js.map": "/fe-app/static/js/787.08307fcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb31d3c1.css",
-    "static/js/main.401db9a1.js"
+    "static/css/main.a4bc1598.css",
+    "static/js/main.2030034c.js"
   ]
 }
